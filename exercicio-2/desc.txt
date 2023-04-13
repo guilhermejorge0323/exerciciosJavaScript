@@ -1,0 +1,1 @@
+Escreva um programa que receba um número inteiro e imprima na tela todos os números ímpares entre 1 e esse número.
